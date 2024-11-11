@@ -5,10 +5,16 @@ const Header = () => {
   return (
     <nav className="deep-purple darken-4">
       <div className="navigation">
-        <a href="!#">Shop</a>
+        <a href="/">Shop</a>
         <ul>
           <li>
-            <a href="!#">Repo</a>
+            <a
+              href="https://github.com/katetimofeeva/simple-shop"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Repo
+            </a>
           </li>
         </ul>
       </div>
